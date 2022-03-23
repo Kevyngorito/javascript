@@ -1,5 +1,5 @@
 <h1>Javascript </h1>
- ### Introdução ao JavaScript do bootcamp DIO em conjunto com a Philips.
+<h2> Introdução ao JavaScript do bootcamp DIO em conjunto com a Philips. </h2>
 
 Aula 1 - O que danado é JavaScript? script.js ✅
 Aula 2 - Entendendo variáveis e seus valores var, let & const ✅
